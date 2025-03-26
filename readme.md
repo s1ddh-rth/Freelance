@@ -29,6 +29,18 @@ A dynamic website built for a business specializing in educational courses and b
 - HTML
 - CSS
 
+### 🏫 Educational Institute Website
+A robust website designed for a college in India, focusing on enhancing academic and administrative efficiency. The platform facilitates student and faculty interactions, streamlines course management, and supports administrative functions.
+
+#### 🛠 Technologies Used:
+- Django
+- Python
+- MySQL
+- JavaScript
+- HTML
+- CSS
+
+
 ## 📬 Contact
 If you have any questions, would like more information, or wish to discuss potential projects, please feel free to <a href="mailto:s1ddh9rth@gmail.com">email me</a>.
 
