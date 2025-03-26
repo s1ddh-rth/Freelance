@@ -17,7 +17,7 @@ An inventory management system tailored for the medical science department at my
 - JavaScript (jQuery)
 - HTML
 
-### 🏢 Newcastle Business Services
+### 🏢 Patria & Co.
 **[View Repository](https://github.com/s1ddh-rth/newCastle)**
 
 A dynamic website built for a business specializing in educational courses and business analytics services. The site integrates SEO strategies to enhance visibility and attract potential clients.
